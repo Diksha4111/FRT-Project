@@ -25,7 +25,7 @@ YooGI is a website that is helpful for the people of any age to learn about yoga
 
 
 
-
+# Project website screenshots
 ## Main Page
 ![1](https://user-images.githubusercontent.com/78994799/184621283-0f020b5a-f77b-4c17-9842-629d1a3e0dda.JPG)
 
@@ -71,3 +71,15 @@ YooGI is a website that is helpful for the people of any age to learn about yoga
 ## Footer 
 ![8](https://user-images.githubusercontent.com/78994799/184623618-bb378fe2-a6d5-4e8e-8dac-892b3acee3d7.JPG)
 
+
+# Azure-Project Deployment Steps:-
+I deployed my website on Azure using Azure storage accounts ans Azure portal. 
+Step1: I created a resource group
+Step2: I created a storage account
+Step3: I used static website feature
+Step4: I uploaded the static website that is "main.html" and "FRT logo.png"(which I used in my static website)
+Step5: I copied the primary endpoint link
+Step6: I pasted the primary endpoint link in the new tab of the chrome browser and obtained the deployed website.
+*The static website contains a button that takes us to the final project website ( which is named as YooGI ). This integration of one website in another was done inside the "main.html" code. I used github pages to deploy the YooGI project website.*
+
+#### Project-azure demo video link: https://drive.google.com/file/d/1jhg4o9McG_XGVoxJ07wQGRAlZUdWwN25/view?usp=sharing
