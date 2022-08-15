@@ -7,10 +7,19 @@
 YooGI is a website that is helpful for the people of any age to learn about yoga and it's importance in our life. Through yoga people can improve their health and lifestyle. The intent of this project website is to create awareness about yoga and spiritualism.
 
 
+
+
+
 # Project demo link: https://newappyoogi.z13.web.core.windows.net/
 
 
+
+
+
 # Project demo video link: https://drive.google.com/file/d/1jhg4o9McG_XGVoxJ07wQGRAlZUdWwN25/view?usp=drivesdk
+
+
+
 
 
 ## Main Page
