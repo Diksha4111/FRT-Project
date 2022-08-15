@@ -1,4 +1,5 @@
-![FRTLogoUnitwPartners_020921](https://user-images.githubusercontent.com/78994799/184627487-36ddd446-8914-450a-856d-6f64ac415fe8.png)  ![azure logo](https://user-images.githubusercontent.com/78994799/184627769-7dfbd425-c9b7-46c4-9fe6-af60d275c8a2.jpg)
+![FRTLogoUnitwPartners_020921](https://user-images.githubusercontent.com/78994799/184627487-36ddd446-8914-450a-856d-6f64ac415fe8.png) ![azure logo](https://user-images.githubusercontent.com/78994799/184628216-f39d715b-4e50-45de-b588-59bc160d7378.jpg)
+
 
 ## Final FRT-Project : YooGI-The Sanjivani
 YooGI is a website that is helpful for the people of any age to learn about yoga and it's importance in our life. Through yoga people can improve their health and lifestyle. The intent of this project website is to create awareness about yoga and spiritualism.
