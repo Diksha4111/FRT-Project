@@ -21,6 +21,10 @@ YooGI is a website that is helpful for the people of any age to learn about yoga
 
 
 
+#### Project-azure demo video link: https://drive.google.com/file/d/1jhg4o9McG_XGVoxJ07wQGRAlZUdWwN25/view?usp=sharing
+
+
+
 
 ## Main Page
 ![1](https://user-images.githubusercontent.com/78994799/184621283-0f020b5a-f77b-4c17-9842-629d1a3e0dda.JPG)
