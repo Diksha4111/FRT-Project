@@ -73,7 +73,7 @@ YooGI is a website that is helpful for the people of any age to learn about yoga
 
 
 # Azure-Project Deployment Steps:-
-I deployed my website on Azure using Azure storage accounts ans Azure portal. 
+I deployed my website on Azure using Azure storage accounts ans Azure portal.<br> 
 Step1: I created a resource group<br>
 Step2: I created a storage account<br>
 Step3: I used static website feature<br>
