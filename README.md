@@ -5,7 +5,7 @@ YooGI is a website that is helpful for the people of any age to learn about yoga
 ## Project demo link: https://newappyoogi.z13.web.core.windows.net/
 
 
-## Project demo video link: 
+## Project demo video link: https://drive.google.com/file/d/1jhg4o9McG_XGVoxJ07wQGRAlZUdWwN25/view?usp=drivesdk
 
 
 ## Main Page
