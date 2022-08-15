@@ -3,7 +3,7 @@
 
 
 
-## Final FRT-Project : YooGI-The Sanjivani
+# Final FRT-Project : YooGI-The Sanjivani
 YooGI is a website that is helpful for the people of any age to learn about yoga and it's importance in our life. Through yoga people can improve their health and lifestyle. The intent of this project website is to create awareness about yoga and spiritualism.
 
 
