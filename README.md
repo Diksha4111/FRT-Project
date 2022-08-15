@@ -21,7 +21,7 @@ YooGI is a website that is helpful for the people of any age to learn about yoga
 
 
 
-#### Project deployment azure-demo video link: https://drive.google.com/file/d/1jhg4o9McG_XGVoxJ07wQGRAlZUdWwN25/view?usp=sharing
+#### Project deployment azure-demo video link: https://drive.google.com/file/d/1k3yVQYndK4fEt6dTPa7NgjdWzt1TbMNk/view?usp=sharing
 
 
 
@@ -82,4 +82,4 @@ Step5: I copied the primary endpoint link<br>
 Step6: I pasted the primary endpoint link in the new tab of the chrome browser and obtained the deployed website.<br>
 *The static website contains a button that takes us to the final project website ( which is named as YooGI ). This integration of one website in another was done inside the "main.html" code. I used github pages to deploy the YooGI project website.*<br>
 
-#### Project deployment on azure-demo video link: https://drive.google.com/file/d/1jhg4o9McG_XGVoxJ07wQGRAlZUdWwN25/view?usp=sharing
+#### Project deployment on azure-demo video link: https://drive.google.com/file/d/1k3yVQYndK4fEt6dTPa7NgjdWzt1TbMNk/view?usp=sharing
