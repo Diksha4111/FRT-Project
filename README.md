@@ -1,4 +1,5 @@
-![FRTLogoUnitwPartners_020921](https://user-images.githubusercontent.com/78994799/184627487-36ddd446-8914-450a-856d-6f64ac415fe8.png) ![azure logo](https://user-images.githubusercontent.com/78994799/184628216-f39d715b-4e50-45de-b588-59bc160d7378.jpg)
+![FRTLogoUnitwPartners_020921](https://user-images.githubusercontent.com/78994799/184627487-36ddd446-8914-450a-856d-6f64ac415fe8.png)  ![azure logo](https://user-images.githubusercontent.com/78994799/184628365-75abd57d-d46c-418e-83bb-88eeaf7ad0a3.png)
+
 
 
 ## Final FRT-Project : YooGI-The Sanjivani
